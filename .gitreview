@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.cyngn.com
+port=29418
+project=cyngn/foundation
+defaultbranch=master
